@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 # 4. Uygulamayı başlatın
 streamlit run app.py
----
+
 
 
 ## 👨‍💻 Geliştirici
