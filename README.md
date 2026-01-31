@@ -39,12 +39,11 @@ pip install -r requirements.txt
 
 # 4. Uygulamayı başlatın
 streamlit run app.py
-
-## 👨‍💻 Geliştirici
-
 ---
 
-Bu proje **Merve** tarafından geliştirilmiştir.
+
+## 👨‍💻 Geliştirici
+Bu proje **Merve Aişeoğlu** tarafından geliştirilmiştir.
 
 * 🌐 **GitHub:** [merveAiseoglu](https://github.com/merveAiseoglu)
 * 💼 **LinkedIn:** [LinkedIn Profilin](https://www.linkedin.com/in/merve-ai%C5%9Feo%C4%9Flu-6842b71b9/)
