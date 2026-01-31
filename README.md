@@ -42,10 +42,10 @@ streamlit run app.py
 
 ## 👨‍💻 Geliştirici
 
+---
+
 Bu proje **Merve** tarafından geliştirilmiştir.
 
 * 🌐 **GitHub:** [merveAiseoglu](https://github.com/merveAiseoglu)
 * 💼 **LinkedIn:** [LinkedIn Profilin](https://www.linkedin.com/in/merve-ai%C5%9Feo%C4%9Flu-6842b71b9/)
-
----
 ⭐️ *Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!*
