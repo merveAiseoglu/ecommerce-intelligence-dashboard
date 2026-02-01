@@ -138,7 +138,7 @@ streamlit run app.py
 
 
 Tarayıcıda otomatik olarak `http://localhost:8501` açılır.
-=======
+====
 
 
 ---
@@ -149,7 +149,7 @@ Bu proje **Merve Aişeoğlu** tarafından geliştirilmiştir.
 
 
 * 🐙 **GitHub:** [@merveAiseoglu](https://github.com/merveAiseoglu)
-* 💼 **LinkedIn:** [Profilime Git](https://linkedin.com/in/merveaiseoglu)
+* 💼 **LinkedIn:** [Profilime Git](https://www.linkedin.com/in/merve-ai%C5%9Feo%C4%9Flu-6842b71b9/)
 
 ---
 
