@@ -138,7 +138,7 @@ streamlit run app.py
 
 
 ## Tarayıcıda otomatik olarak `http://localhost:8501` açılır.
-====
+
 
 
 ---
